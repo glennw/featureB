@@ -1,0 +1,5 @@
+[package]
+
+name = "featureB"
+version = "0.0.1"
+authors = ["Glenn Watson <gw@intuitionlibrary.com>"]
